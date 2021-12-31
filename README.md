@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @insan444
+- 👋 Hi, I’m @insan
 - 👀 I’m interested in crypto curency
 - 🌱 I’m currently learning web developers
 - 💞️ I’m looking to collaborate on github
